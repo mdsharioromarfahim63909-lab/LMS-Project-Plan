@@ -49,7 +49,18 @@ LMS-Project-Plan/
 - **Jira** — Issue tracking (referenced in the risk-management section)
 - **Microsoft Teams / Google Drive** — Communication and file sharing
 
+### Configuration Management (Section 7)
+
+The written configuration-management report section and the version-control evidence are
+documented here:
+
+- **CM report section (Section 7):** [docs/member4-configuration-management/configuration-management-section.md](docs/member4-configuration-management/configuration-management-section.md)
+- **Screenshots capture guide:** [screenshots/README.md](screenshots/README.md)
+
+The repository history demonstrates the CM workflow in practice: incremental commits with
+descriptive messages, plus a `feature/cm-documentation` branch that was merged back into
+`main`. View it on the **Commits** tab or run `git log --oneline --graph`.
+
 ---
 
-*Maintained by Member 4 (Configuration Management). For the written CM section, see
-[`docs/member4-configuration-management/`](docs/member4-configuration-management/).*
+*Maintained by Member 4 — Md Sharior Omar Fahim (63909), GitHub & Configuration Management.*
