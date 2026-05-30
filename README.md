@@ -18,7 +18,7 @@ for the project (Project #6).
 
 | Member | Role | Deliverables |
 |--------|------|-------------|
-| Member 1 | Introduction & Project Scope | Introduction, Scope Statement |
+| Member 1 — Nazmul Hossen Alif (66283) | Introduction & Project Scope | Introduction, Scope Statement |
 | Member 2 — Muhammad Huzaifa Kamran (66772) | Gantt Chart & Project Planning | WBS, Gantt Chart, Milestones |
 | Member 3 — Motaleb Amin Safi (66167) | Risk & Issue Management | Risk Matrix, Issue Tracking, Change Management |
 | Member 4 — Md Sharior Omar Fahim (63909) | GitHub & Configuration Management | Repository, Version Control, CM Documentation |
