@@ -1,0 +1,20 @@
+# ---- Operating system files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Microsoft Office temporary / lock files ----
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.ppt
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# ---- Editor / IDE folders ----
+.vscode/
+.idea/
+
+# ---- Misc ----
+*.log
